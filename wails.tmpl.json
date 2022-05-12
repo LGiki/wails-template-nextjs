@@ -1,0 +1,14 @@
+{
+  "name": "{{.ProjectName}}",
+  "outputfilename": "{{.BinaryName}}",
+  "assetdir": "frontend/out",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build && npm run export",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "http://localhost:3000",
+  "wailsjsdir": "frontend/wailsjs",
+  "author": {
+    "name": "{{.AuthorName}}",
+    "email": "{{.AuthorEmail}}"
+  }
+}
