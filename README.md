@@ -6,7 +6,7 @@ A [Wails](https://github.com/wailsapp/wails) template with [Next.js](https://git
 
 You can develop applications using Next.js and then use Wails to package your application as a cross-platform program that is compatible with Linux, macOS and Windows. And you can easily call Go methods from JavaScript.
 
-This project uses `next export` to export the Next.js application to static HTML, and then uses Wails to package the static files into an program, so some Next.js features are unsupported, see [https://nextjs.org/docs/advanced-features/static-html-export](https://nextjs.org/docs/advanced-features/static-html-export) for details.
+This project uses `next export` to export the Next.js application to static HTML, and then uses Wails to package the static files into a program, so some Next.js features are unsupported, see [https://nextjs.org/docs/advanced-features/static-html-export](https://nextjs.org/docs/advanced-features/static-html-export) for details.
 
 # Screenshot
 
