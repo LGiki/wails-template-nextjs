@@ -19,6 +19,7 @@
   justify-content: center;
   gap: 2em;
   padding: 2em;
+  --wails-draggable:no-drag;
 }
 
 .plus {
