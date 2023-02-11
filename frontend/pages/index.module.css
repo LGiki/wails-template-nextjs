@@ -2,6 +2,7 @@
   height: 100vh;
   width: 100vw;
   padding: 10vh 10vw;
+  --wails-draggable:drag;
 }
 
 .app {
