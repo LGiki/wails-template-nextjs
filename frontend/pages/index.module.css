@@ -2,6 +2,7 @@
   height: 100vh;
   width: 100vw;
   padding: 10vh 10vw;
+  --wails-draggable:drag;
 }
 
 .app {
@@ -18,6 +19,7 @@
   justify-content: center;
   gap: 2em;
   padding: 2em;
+  --wails-draggable:no-drag;
 }
 
 .plus {
